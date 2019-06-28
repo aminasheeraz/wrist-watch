@@ -1,0 +1,74 @@
+
+    .container {
+        border: 2px white solid;
+        width: 320px;
+        margin-left: 35%;
+        margin-top: 20%;
+        height: auto;
+        
+        }
+        
+    #main {
+        position: relative;
+        border-radius: 45px;
+        background: black;
+        width: 280px;
+        height: 300px;
+        border: 15px gray solid;
+        }
+        
+    #time {
+        color: red;
+        text-align: center;
+        font-size: 350%;
+        font-family: sans-serif;
+        margin: 4% 0 0 0; 
+        }
+        
+    #brand {
+        color: white;
+        font-size: 1.9em;
+        text-align: center;
+        font-family: fantasy;
+        font-weight: 700;
+        }    
+        
+    #led {
+        position: absolute;
+        color: white;
+        text-align: center;
+        font-family: sans-serif;
+        font-size: 110%;
+        font-weight: 500;
+        margin-left: 30%;
+        margin-top: 12%;
+        }
+        
+    #trapezoid {
+        border-bottom: 100px solid black;
+        border-left: 25px solid transparent;
+        border-right: 25px solid transparent;
+        height: 0;
+        width: 130px;
+        margin-left: 20%;
+        }
+        
+    #trapezoid_bottom {
+        border-top: 100px solid black;
+        border-left: 25px solid transparent;
+        border-right: 25px solid transparent;
+        height: 0;
+        width: 130px;
+        margin-left: 20%;
+        }
+        
+    #dial {
+        position: relative;
+        background: gray;
+        height: 50px;
+        width: 17px;
+        border-radius: 40%;
+        float: right;
+        margin-top: 75%;
+        }
+          
